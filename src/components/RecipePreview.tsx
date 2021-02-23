@@ -32,7 +32,7 @@ const RecipePreview: FC<RecipePreviewProps> = ({ recipe }) => {
       </IonList>
 
       <IonCardContent>
-        <IonButton expand="block">
+        <IonButton expand="block" routerLink={`/recipes/${recipe.id}`}>
           See more
         </IonButton>
       </IonCardContent>
