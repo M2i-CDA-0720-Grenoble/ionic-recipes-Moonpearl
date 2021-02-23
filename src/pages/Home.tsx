@@ -3,6 +3,7 @@ import { globe, link } from 'ionicons/icons';
 import './Home.css';
 
 import recipes from '../data.json';
+import { Recipe } from '../models';
 
 
 const Home: React.FC = () => {
