@@ -1,11 +1,23 @@
+import { useEffect, useState } from 'react';
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import './Home.css';
 
-import recipes from '../data.json';
 import { RecipePreview } from '../components';
+import { Recipe } from '../models';
 
 
 const Home: React.FC = () => {
+  const [recipes, setRecipes] = useState<Recipe[]>([]);
+
+  useEffect(
+    () => {
+      fetch('http://localhost:3000/recipes?_expand=category&_expand=area')
+      .then(response => response.json())
+      .then( (json: Recipe[]) => setRecipes(json));
+    },
+    []
+  );
+
   return (
     <IonPage>
       <IonHeader>
@@ -22,7 +34,7 @@ const Home: React.FC = () => {
 
         {
           recipes.map(
-            (recipe: any, index: number) => 
+            (recipe, index) => 
               <RecipePreview key={index} recipe={recipe} />
           )
         }
