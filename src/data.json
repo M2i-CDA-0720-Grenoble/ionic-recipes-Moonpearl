@@ -1,0 +1,146 @@
+[
+    {
+        "id": 52776,
+        "name": "Chocolate Gateau",
+        "source": "http://www.goodtoknow.co.uk/recipes/536028/chocolate-gateau",
+        "image": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+        "video": "https://www.youtube.com/watch?v=dsJtgmAhFF4",
+        "instructions": "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment\r\nBreak the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)\r\nPlace the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.\r\nSpread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely.",
+        "areaId": 1,
+        "categoryId": 1,
+        "category": {
+            "name": "Dessert",
+            "id": 1
+        },
+        "area": {
+            "name": "French",
+            "id": 1
+        }
+    },
+    {
+        "id": 52765,
+        "name": "Chicken Enchilada Casserole",
+        "source": null,
+        "image": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+        "video": "https://www.youtube.com/watch?v=EtVkwVKLc_M",
+        "instructions": "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.\r\nRemove chicken from the pot and shred with two forks.\r\nPreheat oven to 375 F degrees.\r\nStart layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.\r\nBake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.\r\nServe warm.",
+        "areaId": 2,
+        "categoryId": 2,
+        "category": {
+            "name": "Chicken",
+            "id": 2
+        },
+        "area": {
+            "name": "Mexican",
+            "id": 2
+        }
+    },
+    {
+        "id": 52779,
+        "name": "Cream Cheese Tart",
+        "source": "https://www.instagram.com/p/BHyuMZ1hZX0",
+        "image": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+        "video": "https://www.youtube.com/watch?v=UhQPwO4uymo",
+        "instructions": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy",
+        "areaId": 3,
+        "categoryId": 3,
+        "category": {
+            "name": "Starter",
+            "id": 3
+        },
+        "area": {
+            "name": "Unknown",
+            "id": 3
+        }
+    },
+    {
+        "id": 52788,
+        "name": "Christmas Pudding Flapjack",
+        "source": "",
+        "image": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+        "video": "https://www.youtube.com/watch?v=OaqvGvEiwzU",
+        "instructions": "Preheat the oven to 180°C/fan 160°C/gas mark 4 and grease and line a 25cm x 20cm tin. Melt the butter, sugar, syrup and orange zest in a large saucepan over a medium heat. The aim is to dissolve all the ingredients so that they are smooth, but to not lose any volume through boiling so be careful not to overheat.\r\n\r\nAdd the oats and stir well until evenly coated. Stir through the leftover Christmas pudding and tip into the prepared tin. Use a spoon to flatten the top and bake for 40 minutes until the edges start to brown. Whilst still warm in the tin, score into 12 squares. Allow to cool completely before cutting along the scores.\r\n\r\nKeeps for 5 days in an air tight tin or freeze for up to 1 month.",
+        "areaId": 4,
+        "categoryId": 1,
+        "category": {
+            "name": "Dessert",
+            "id": 1
+        },
+        "area": {
+            "name": "British",
+            "id": 4
+        }
+    },
+    {
+        "id": 52795,
+        "name": "Chicken Handi",
+        "source": "",
+        "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+        "video": "https://www.youtube.com/watch?v=IO0issT0Rmc",
+        "instructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.\r\nTo the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir. Add ginger paste and sauté well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.\r\nNext goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.\r\nAdd the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.\r\nWhen the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.\r\nFinally add the cream and give a final mix to combine everything well.\r\nSprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!",
+        "areaId": 5,
+        "categoryId": 2,
+        "category": {
+            "name": "Chicken",
+            "id": 2
+        },
+        "area": {
+            "name": "Indian",
+            "id": 5
+        }
+    },
+    {
+        "id": 52796,
+        "name": "Chicken Alfredo Primavera",
+        "source": "",
+        "image": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+        "video": "https://www.youtube.com/watch?v=qCIbq8HywpQ",
+        "instructions": "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.  While the chicken is cooking, bring a large pot of water to a boil. Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir. Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.  Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken. Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute.  Deglaze the pan with the white wine. Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired. ",
+        "areaId": 6,
+        "categoryId": 2,
+        "category": {
+            "name": "Chicken",
+            "id": 2
+        },
+        "area": {
+            "name": "Italian",
+            "id": 6
+        }
+    },
+    {
+        "id": 52818,
+        "name": "Chicken Fajita Mac and Cheese",
+        "source": "http://twistedfood.co.uk/chicken-fajita-mac-n-cheese/",
+        "image": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "video": "https://www.youtube.com/watch?v=bwTSmLTZKNg",
+        "instructions": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.\r\nAdd your cream, stock and macaroni.\r\nCook on low for 20 minutes. Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsley.",
+        "areaId": 7,
+        "categoryId": 2,
+        "category": {
+            "name": "Chicken",
+            "id": 2
+        },
+        "area": {
+            "name": "American",
+            "id": 7
+        }
+    },
+    {
+        "id": 52819,
+        "name": "Cajun spiced fish tacos",
+        "source": "https://realfood.tesco.com/recipes/cajun-spiced-fish-tacos.html",
+        "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+        "video": "https://www.youtube.com/watch?v=N4EdUt0Ou48",
+        "instructions": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.\r\n\r\nOn a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.\r\n\r\nHeat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.\r\n\r\nMeanwhile, prepare the dressing by combining all the ingredients with a little seasoning.\r\nSoften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing.",
+        "areaId": 2,
+        "categoryId": 4,
+        "category": {
+            "name": "Seafood",
+            "id": 4
+        },
+        "area": {
+            "name": "Mexican",
+            "id": 2
+        }
+    }
+]
